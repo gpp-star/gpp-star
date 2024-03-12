@@ -1,2 +1,2 @@
 # gpp-star
-archivos varios para practicar
+console.log("Hi!  I'm Grace") 
